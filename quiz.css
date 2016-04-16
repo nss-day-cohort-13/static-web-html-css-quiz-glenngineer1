@@ -1,0 +1,55 @@
+article.card {
+  width: 30%;
+  display: inline-block;
+}
+
+.pic {
+  margin: 0 auto;
+  display: block;
+}
+
+.card {
+  border: 1px solid lightblue;
+}
+
+h1 {
+  border: 1px dotted lightgray;
+  text-align: center;
+}
+
+.sec1 p {
+  text-align: justify;
+  margin: 0 10px;
+  padding: 10px;
+}
+
+.sec2, .sec3 p{
+  font-weight: bolder;
+}
+
+.availability {
+  color: yellow;
+  background-color:darkgrey;
+}
+
+h3 {
+  margin: 0 15px;
+}
+
+h4 {
+  margin: 5px 15px 0px;
+}
+
+.sec2 p {
+  margin: 0 30px;
+  padding: 0;
+}
+
+.sec3 p {
+  margin: 0 30px;
+}
+
+h6 {
+  margin: 3px auto;
+}
+
