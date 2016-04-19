@@ -50,7 +50,9 @@ h6 {
   margin: 3px auto;
 }
 
-
-@media (min-width: 10%) {
-
+.pic {
+  height: 125px;
+  width: 125px;
 }
+
+
