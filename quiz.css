@@ -1,15 +1,12 @@
-article.card {
+.card {
   width: 30%;
   display: inline-block;
+  border: 1px solid lightblue
 }
 
 .pic {
   margin: 0 auto;
   display: block;
-}
-
-.card {
-  border: 1px solid lightblue;
 }
 
 h1 {
@@ -37,7 +34,7 @@ h3 {
 }
 
 h4 {
-  margin: 5px 15px 0px;
+  margin: 5px 15px 0;
 }
 
 .sec2 p {
