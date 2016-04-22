@@ -1,7 +1,7 @@
 .card {
   width: 30%;
   display: inline-block;
-  border: 1px solid lightblue
+  border: 1px solid lightblue;
 }
 
 .pic {
@@ -26,7 +26,7 @@ h1 {
 
 .availability {
   color: yellow;
-  background-color:darkgrey;
+  background-color: darkgrey;
 }
 
 h3 {
@@ -54,5 +54,3 @@ h6 {
   height: 125px;
   width: 125px;
 }
-
-
